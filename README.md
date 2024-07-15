@@ -73,7 +73,7 @@ workflow_content = {
         },
         'workflow_dispatch': None
     },
-    'name': 'Link Checker',
+    'name': 'GH Action Bulk On-boarder',
     'jobs': {
         'fossa-scan': {
             'runs-on': 'ubuntu-latest',
